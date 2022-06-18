@@ -9,7 +9,7 @@ A bash script that calls the python file that automates the entire process of ma
  &nbsp;
   <br>
   <p align = "center">
-    <img src = "automation logo.png" width = 40%>
+    <img src = "Automation logo.png" width = 40%>
 </p>
   
 ## Requirements
